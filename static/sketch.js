@@ -49,7 +49,7 @@ function draw() {
   if (label == "Background Noise") {
     background(random(255),random(255),random(255));
   } else {
-    background(255);
+ 
   }
 }
 
